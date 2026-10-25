@@ -4,3 +4,8 @@
 
 /* Official logo placement: header wordmark and HOME cat illustration */
 .brand-logo{display:inline-flex;flex-direction:column;align-items:flex-start;justify-content:center;max-width:260px}.brand-logo>img{width:190px;height:57px;object-fit:contain;object-position:left center}.brand-logo>img:not([hidden])~.brand-fallback{display:none}.brand-logo>span:last-child{margin-top:2px}.official-cats{width:220px;margin:12px 0 0;padding:9px;background:#fff;border-radius:12px;box-shadow:0 12px 38px #0005}.official-cats img{display:block;width:100%;height:auto}.official-cats[hidden]{display:none}@media(max-width:760px){.brand-logo>img{width:158px;height:47px}.official-cats{width:158px;position:relative;z-index:2;margin-top:14px}.hero .official-cats{margin-bottom:12px}}
+
+/* Larger official PapiLio header wordmark */
+.brand-logo{max-width:340px}
+.brand-logo>img{width:290px;height:92px;max-width:100%;object-fit:contain}
+@media(max-width:760px){.brand-logo{max-width:230px}.brand-logo>img{width:225px;height:72px}}
