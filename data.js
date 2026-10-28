@@ -280,4 +280,9 @@ export const lives=[
 ];
 // 公演追加例（確認済みの情報に置き換えてから lives に追加）:
 // {id:'unique-id',title:'確認済みの公演名',date:'2026-01-01',venue:'会場',status:'past',source:'https://...',setlist:[{title:'曲名',note:'出典補足'}],posts:[{label:'公演告知',url:'https://...'}],videos:[{label:'動画名',url:'https://...'}]}
-export const socials=[{name:'YouTube',mark:'↗',description:'映像と音楽の記録',url:null},{name:'Instagram',mark:'↗',description:'写真に残る、その瞬間',url:null},{name:'X',mark:'↗',description:'日々の言葉とお知らせ',url:null}];
+export const socials=[
+{name:'YouTube',mark:'↗',description:'PapiLioの動画・音楽',url:'https://www.youtube.com/@papilionne'},
+{name:'Instagram',mark:'↗',description:'写真と最新のお知らせ',url:'https://www.instagram.com/papilio_osaka/'},
+{name:'X',mark:'↗',description:'最新情報と日々の投稿',url:'https://x.com/papilio_osaka'},
+{name:'TikTok',mark:'↗',description:'ショート動画と音楽の記録',url:'https://www.tiktok.com/@papilio_osaka'}
+];
