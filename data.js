@@ -1,5 +1,5 @@
 // 確認できた出典と情報だけを追加してください。空欄は未確認として表示します。
-export const members=[{role:'VOCAL',name:'RuRu',text:'声が紡ぐ、PapiLioの世界。',bio:null},{role:'PIANO',name:'ゆっけ',text:'鍵盤から広がる、音の風景。',bio:null}];
+export const members=[{role:'VOCAL',name:'RuRu',text:'声が紡ぐ、PapiLioの世界。',bio:null,sns:[{name:'Instagram',url:'https://www.instagram.com/ruru_matsumoto/'},{name:'X',url:'https://x.com/ruru_matsumoto'},{name:'TikTok',url:'https://www.tiktok.com/@kazeniwaruru'},{name:'YouTube',url:'https://www.youtube.com/@kazeniwaruru'}]},{role:'PIANO',name:'ゆっけ',text:'鍵盤から広がる、音の風景。',bio:null,sns:[{name:'TikTok',url:'https://www.tiktok.com/@yukkechaan'},{name:'Instagram',url:'https://www.instagram.com/yukkebar/'},{name:'X',url:'https://x.com/yukke_bron'}]}];
 export const history=[{date:'2025.12 —',title:'アーカイブの記録対象期間',text:'2025年12月以降の活動を記録する予定です。活動開始日を示すものではありません。個別の活動は出典確認後に掲載します。'}];
 export const lives=[
   {
