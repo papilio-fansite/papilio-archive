@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://papilio-fansite.github.io/papilio-archive/sitemap.xml
