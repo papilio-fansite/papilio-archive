@@ -1,5 +1,5 @@
 // 確認できた出典と情報だけを追加してください。空欄は未確認として表示します。
-export const members=[{role:'VOCAL',name:'RuRu',text:'声が紡ぐ、PapiLioの世界。',bio:null,sns:[{name:'Instagram',url:'https://www.instagram.com/ruru_matsumoto/'},{name:'X',url:'https://x.com/ruru_matsumoto'},{name:'TikTok',url:'https://www.tiktok.com/@kazeniwaruru'},{name:'YouTube',url:'https://www.youtube.com/@kazeniwaruru'}]},{role:'PIANO',name:'ゆっけ',text:'鍵盤から広がる、音の風景。',bio:null,sns:[{name:'TikTok',url:'https://www.tiktok.com/@yukkechaan'},{name:'Instagram',url:'https://www.instagram.com/yukkebar/'},{name:'X',url:'https://x.com/yukke_bron'}]}];
+export const members=[{role:'VOCAL',name:'RuRu',text:'声が紡ぐ、PapiLioの世界。',bio:null,sns:[{name:'Instagram',url:'https://www.instagram.com/ruru_matsumoto/'},{name:'X',url:'https://x.com/ruru_matsumoto'},{name:'TikTok',url:'https://www.tiktok.com/@kazeniwaruru'},{name:'YouTube',url:'https://www.youtube.com/@kazeniwaruru'}]},{role:'PIANO',name:'ゆっけ',text:'鍵盤から広がる、音の風景。',bio:null,sns:[{name:'Instagram',url:'https://www.instagram.com/yukkebar/'},{name:'X',url:'https://x.com/yukke_bron'},{name:'TikTok',url:'https://www.tiktok.com/@yukkechaan'}]}];
 export const history=[{date:'2025.12 —',title:'アーカイブの記録対象期間',text:'2025年12月以降の活動を記録する予定です。活動開始日を示すものではありません。個別の活動は出典確認後に掲載します。'}];
 export const lives=[
   {
@@ -280,9 +280,4 @@ export const lives=[
 ];
 // 公演追加例（確認済みの情報に置き換えてから lives に追加）:
 // {id:'unique-id',title:'確認済みの公演名',date:'2026-01-01',venue:'会場',status:'past',source:'https://...',setlist:[{title:'曲名',note:'出典補足'}],posts:[{label:'公演告知',url:'https://...'}],videos:[{label:'動画名',url:'https://...'}]}
-export const socials=[
-{name:'YouTube',mark:'↗',description:'PapiLioの動画・音楽',url:'https://www.youtube.com/@papilionne'},
-{name:'Instagram',mark:'↗',description:'写真と最新のお知らせ',url:'https://www.instagram.com/papilio_osaka/'},
-{name:'X',mark:'↗',description:'最新情報と日々の投稿',url:'https://x.com/papilio_osaka'},
-{name:'TikTok',mark:'↗',description:'ショート動画と音楽の記録',url:'https://www.tiktok.com/@papilio_osaka'}
-];
+export const socials=[{name:'Instagram',mark:'↗',description:'写真と最新のお知らせ',url:'https://www.instagram.com/papilio_osaka/'},{name:'X',mark:'↗',description:'最新情報と日々の投稿',url:'https://x.com/papilio_osaka'},{name:'TikTok',mark:'↗',description:'ショート動画と音楽の記録',url:'https://www.tiktok.com/@papilio_osaka'},{name:'YouTube',mark:'↗',description:'PapiLioの動画・音楽',url:'https://www.youtube.com/@papilionne'}];
