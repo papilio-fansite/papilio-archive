@@ -317,7 +317,6 @@ export const lives=[
     "note": "PapiLioがトリを担当"
   },
   {
-  {
       "id": "2026-11-24",
       "title": "someno kyoto 9th Anniversary「つきあかりのうた」",
       "date": "2026-11-24",
@@ -351,7 +350,7 @@ export const lives=[
           }
       ],
     "images": [{"src":"./papilio-2026-11-24-flyer.webp","alt":"2026年11月24日 つきあかりのうた 公演フライヤー","label":"公演フライヤー"}]
-  }
+  },
   {
     "id": "2026-12-16",
     "title": "公演情報（詳細準備中）",
