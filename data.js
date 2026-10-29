@@ -290,7 +290,19 @@ export const lives=[
     "open": "16:00",
     "start": "16:30",
     "price": "前売 ¥6,000／当日 ¥6,500（各1ドリンク別）",
-    "note": "PapiLio初のフルバンド出演。RuRu・ゆっけのコラボステージもあり"
+    "note": "PapiLio初のフルバンド出演。RuRu・ゆっけのコラボステージもあり",
+    "images": [
+      {
+        "src": "./livers-fes-flyer.webp",
+        "alt": "LIVER'S FES.2026 メインフライヤー",
+        "label": "メインフライヤー"
+      },
+      {
+        "src": "./livers-fes-timetable.webp",
+        "alt": "LIVER'S FES.2026 タイムテーブル",
+        "label": "タイムテーブル"
+      }
+    ]
   },
   {
     "id": "2026-10-21",
