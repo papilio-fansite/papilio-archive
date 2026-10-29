@@ -317,16 +317,40 @@ export const lives=[
     "note": "PapiLioがトリを担当"
   },
   {
-    "id": "2026-11-24",
-    "title": "公演情報（詳細準備中）",
-    "date": "2026-11-24",
-    "venue": null,
-    "status": "upcoming",
-    "source": null,
-    "setlist": [],
-    "posts": [],
-    "videos": []
-  },
+  {
+      "id": "2026-11-24",
+      "title": "someno kyoto 9th Anniversary「つきあかりのうた」",
+      "date": "2026-11-24",
+      "venue": "someno kyoto（京都）",
+      "status": "upcoming",
+      "open": "18:30",
+      "start": "19:00",
+      "price": "前売 ¥2,800 / 当日 ¥3,300（別途ドリンク代：1杯 ¥600 または2杯 ¥1,000）",
+      "performers": "ひなね / PapiLio / 中村あす香 / 前田葵 / 七凪",
+      "stream": "ツイキャスプレミア ¥2,500（アーカイブ視聴は12/8 23:59まで）",
+      "note": "someno kyoto 9周年記念公演。来場者限定の配信アーカイブ視聴券は¥1,500。来場予約は11/23 23:59まで。",
+      "source": "https://tiget.net/events/532021",
+      "setlist": [],
+      "posts": [
+          {
+              "platform": "X",
+              "account": "someno kyoto",
+              "type": "公演告知",
+              "label": "11月24日「つきあかりのうた」公演告知",
+              "url": "https://x.com/somenokyoto/status/2112453777710080141"
+          }
+      ],
+      "videos": [
+          {
+              "label": "配信チケット（ツイキャス）",
+              "url": "https://www.twitcasting.tv/somenokyoto/shopcart/459997"
+          },
+          {
+              "label": "来場予約（TIGET）",
+              "url": "https://tiget.net/events/532021"
+          }
+      ]
+  }
   {
     "id": "2026-12-16",
     "title": "公演情報（詳細準備中）",
