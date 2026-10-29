@@ -1,4 +1,4 @@
-import {members,history,lives,socials} from './data.js?v=20261029-personal-sns';
+import {members,history,lives,socials} from './data.js?v=20261029-sns-order';
 const main=document.querySelector('main');
 const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const external=(url,label)=>{try{const u=new URL(url);if(u.protocol==='https:')return `<a class="external" href="${escape(u.href)}" target="_blank" rel="noopener noreferrer">${escape(label)} <span>↗</span></a>`;}catch{}return '<span class="muted">リンク未確認</span>';};
