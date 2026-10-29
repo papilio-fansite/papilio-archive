@@ -256,8 +256,36 @@ export const lives=[
     "venue": "新宿SCIENCE／HEIST（2会場サーキット）",
     "status": "past",
     "source": "https://x.com/Livers_Fes",
-    "setlist": [],
-    "posts": [],
+    "setlist": [
+      {
+        "title": "No Perfect"
+      },
+      {
+        "title": "サルビア"
+      },
+      {
+        "title": "コラボステージ"
+      },
+      {
+        "title": "君は生きている"
+      }
+    ],
+    "posts": [
+      {
+        "label": "PapiLio｜終演後の投稿（X）",
+        "url": "https://x.com/papilio_osaka/status/2110359403333587134",
+        "type": "終演後",
+        "account": "PapiLio",
+        "platform": "X"
+      },
+      {
+        "label": "LIVER'S FES｜関連投稿（X）",
+        "url": "https://x.com/livers_fes/status/2110056435136798884",
+        "type": "関連投稿",
+        "account": "LIVER'S FES",
+        "platform": "X"
+      }
+    ],
     "videos": [],
     "open": "16:00",
     "start": "16:30",
