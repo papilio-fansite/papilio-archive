@@ -21,3 +21,6 @@
 .post-embed{margin:16px 0 26px;max-width:640px}.post-embed-label{font-size:13px;color:#d8c6ee;margin-bottom:8px}.tweet-embed{min-height:24px}.post-embed-fallback{font-size:12px;margin-top:8px;opacity:.8}.tweet-embed iframe{max-width:100%}
 
 .live-flyers{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:20px;margin:8px 0 28px;align-items:start}.live-flyer{margin:0;max-width:480px}.live-flyer img{display:block;width:100%;height:auto;border-radius:12px;border:1px solid rgba(200,170,235,.25)}.live-flyer figcaption{font-size:13px;opacity:.75;margin-top:8px}.live-flyer a{display:block}
+
+/* Official PV embed */
+.pv-section{padding-top:40px}.pv-video{position:relative;width:100%;max-width:900px;aspect-ratio:16/9;overflow:hidden;border:1px solid rgba(194,166,232,.3);border-radius:16px;background:#08080f}.pv-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}.pv-caption{margin:12px 0 0;color:var(--muted);font-size:14px}.pv-caption a{color:var(--accent)}
