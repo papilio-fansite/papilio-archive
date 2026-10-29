@@ -4,14 +4,19 @@ export const history=[{date:'2025.12 —',title:'アーカイブの記録対象�
 export const lives=[
   {
     "id": "2026-01-08",
-    "title": "公演情報（詳細準備中）",
+    "title": "NaturalWoman-Pianoday-",
     "date": "2026-01-08",
-    "venue": null,
+    "venue": "南堀江knave",
     "status": "past",
-    "source": null,
+    "source": "https://x.com/papilio_osaka",
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "open": "18:00",
+    "start": "18:30",
+    "appearance": "19:10〜19:40（2番目）",
+    "price": "前売 ¥2,800／当日 ¥3,300",
+    "note": "サポートドラム：窪龍樹"
   },
   {
     "id": "2026-02-05",
@@ -202,58 +207,74 @@ export const lives=[
   },
   {
     "id": "2026-09-25",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto 9th Anniversary「Assemble」",
     "date": "2026-09-25",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
-    "source": null,
+    "source": "https://tiget.net/events/514946",
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "open": "18:30",
+    "start": "19:00",
+    "price": "前売・予約 ¥2,800／当日 ¥3,300（ドリンク代別）",
+    "performers": "栗林竜吾／水沼遼太／PapiLio／関口憂一／Mayuro",
+    "stream": "ツイキャスプレミア配信 ¥2,500（アーカイブあり）"
   },
   {
     "id": "2026-10-12-1",
-    "title": "10月12日公演（1回目）",
+    "title": "PapiLio 初単独LIVE",
     "date": "2026-10-12",
-    "venue": null,
+    "venue": "教会（会場名未確認）",
     "status": "past",
-    "source": null,
+    "source": "https://x.com/papilio_osaka",
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "note": "グランドピアノ生演奏"
   },
   {
     "id": "2026-10-12-2",
-    "title": "10月12日公演（2回目）",
+    "title": "DY CUBE presents 感性の法則「掌」",
     "date": "2026-10-12",
-    "venue": null,
+    "venue": "下北沢 DY CUBE",
     "status": "past",
-    "source": null,
+    "source": "https://tiget.net/events/519466",
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "open": "18:25",
+    "start": "18:45",
+    "price": "¥2,700＋1ドリンク ¥700",
+    "performers": "青よりブルーがかっこいい／PapiLio／LEE（SHIROST）／ryo isamu／直",
+    "stream": "ツイキャス配信 ¥2,500（購入日から30日間アーカイブ視聴可）"
   },
   {
     "id": "2026-10-13",
-    "title": "公演情報（詳細準備中）",
+    "title": "COVA presents LIVER'S FES.2026 Supported by とあぴ",
     "date": "2026-10-13",
-    "venue": null,
+    "venue": "新宿SCIENCE／HEIST（2会場サーキット）",
     "status": "past",
-    "source": null,
+    "source": "https://x.com/Livers_Fes",
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "open": "16:00",
+    "start": "16:30",
+    "price": "前売 ¥6,000／当日 ¥6,500（各1ドリンク別）",
+    "note": "PapiLio初のフルバンド出演。RuRu・ゆっけのコラボステージもあり"
   },
   {
     "id": "2026-10-21",
-    "title": "公演情報（詳細準備中）",
+    "title": "LoversRock",
     "date": "2026-10-21",
-    "venue": null,
+    "venue": "南堀江knave",
     "status": "past",
-    "source": null,
+    "source": "https://x.com/papilio_osaka",
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "note": "PapiLioがトリを担当"
   },
   {
     "id": "2026-11-24",
