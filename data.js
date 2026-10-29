@@ -366,7 +366,8 @@ export const lives=[
     "price": "前売 ¥3,000／当日 ¥3,500（別途1ドリンク）",
     "performers": "PapiLio／橋口有加／瑚雪／瀧本結月",
     "stream": "配信 ¥2,500（視聴URL未確認）",
-    "note": "PapiLio 1周年記念ライブ。会場：大阪府大阪市西区南堀江3丁目11-21 Tall Valley。問い合わせ：papilionne8888@gmail.com。フライヤー確認済み（画像登録準備中）。"
+    "note": "PapiLio 1周年記念ライブ。会場：大阪府大阪市西区南堀江3丁目11-21 Tall Valley。問い合わせ：papilionne8888@gmail.com。",
+    "images": [{"src":"./papilio-2026-12-16-flyer.webp","alt":"2026年12月16日 PapiLio 1st Anniversary LIVE 公演フライヤー","label":"公演フライヤー"}]
   }
 ];
 // 公演追加例（確認済みの情報に置き換えてから lives に追加）:
