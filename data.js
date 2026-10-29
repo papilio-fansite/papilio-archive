@@ -349,7 +349,8 @@ export const lives=[
               "label": "来場予約（TIGET）",
               "url": "https://tiget.net/events/532021"
           }
-      ]
+      ],
+    "images": [{"src":"./papilio-2026-11-24-flyer.webp","alt":"2026年11月24日 つきあかりのうた 公演フライヤー","label":"公演フライヤー"}]
   }
   {
     "id": "2026-12-16",
