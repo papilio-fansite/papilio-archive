@@ -54,7 +54,8 @@ export const lives=[
     "open": "18:30",
     "start": "19:00",
     "price": "来場 ¥2,500（別途ドリンク代）",
-    "stream": "配信 ¥2,500。配信アーカイブ販売期限：2026年3月16日 23:59、視聴期間14日間。来場者向け配信視聴券は＋¥1,500。"
+    "stream": "配信 ¥2,500。配信アーカイブ販売期限：2026年3月16日 23:59、視聴期間14日間。来場者向け配信視聴券は＋¥1,500。",
+    "images": [{"src":"./papilio-2026-03-02-flyer.webp","alt":"2026-03-02 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-03-16",
@@ -99,7 +100,8 @@ export const lives=[
     "setlist": [],
     "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-05-06 公演関連投稿","url":"https://x.com/somenokyoto/status/2051887064556409109"}],
     "videos": [],
-    "performers": "古田愛弓／前田葵／満月／PapiLio／REA／amaNe"
+    "performers": "古田愛弓／前田葵／満月／PapiLio／REA／amaNe",
+    "images": [{"src":"./papilio-2026-05-06-flyer.webp","alt":"2026-05-06 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-05-11",
@@ -122,7 +124,8 @@ export const lives=[
     "setlist": [],
     "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-06-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2052357789763199457"}],
     "videos": [],
-    "performers": "風未／PapiLio／七凪"
+    "performers": "風未／PapiLio／七凪",
+    "images": [{"src":"./papilio-2026-06-02-flyer.webp","alt":"2026-06-02 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-06-08",
@@ -169,7 +172,8 @@ export const lives=[
     "videos": [],
     "performers": "PapiLio／汐杏／美侑",
     "open": "18:30",
-    "start": "19:00"
+    "start": "19:00",
+    "images": [{"src":"./papilio-2026-07-16-flyer.webp","alt":"2026-07-16 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-08-15",
