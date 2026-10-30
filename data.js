@@ -248,7 +248,8 @@ export const lives=[
     "appearance": "19:55〜（タイムテーブル記載）",
     "price": "¥2,700＋1ドリンク ¥700",
     "performers": "青よりブルーがかっこいい／PapiLio／LEE（SHIROST）／ryo isamu／直",
-    "stream": "ツイキャス配信 ¥2,500（購入日から30日間アーカイブ視聴可）"
+    "stream": "ツイキャス配信 ¥2,500（購入日から30日間アーカイブ視聴可）",
+    "images": [{"src":"./papilio-2026-10-12-flyer.webp","alt":"2026年10月12日 感性の法則「掌」公演フライヤー","label":"公演フライヤー"},{"src":"./papilio-2026-10-12-timetable.webp","alt":"2026年10月12日 感性の法則「掌」タイムテーブル","label":"タイムテーブル"}]
   },
   {
     "id": "2026-10-13",
