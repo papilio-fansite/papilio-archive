@@ -170,7 +170,12 @@ export const lives=[
     "source": null,
     "setlist": [{"title":"poison"},{"title":"stay just the way you are"},{"title":"trailer"},{"title":"あといっぽ"},{"title":"tell me baby"},{"title":"サルビア"},{"title":"No Perfect"}],
     "posts": [{"platform":"X","account":"mk_tn_official","type":"公演関連投稿","label":"8月15日 関連X投稿","url":"https://x.com/mk_tn_official/status/2089192631855391231"}],
-    "videos": [{"platform":"Instagram","type":"関連投稿","label":"8月15日 関連Instagram投稿","url":"https://www.instagram.com/p/DcI5GLAp6TS/"}]
+    "videos": [{"platform":"Instagram","type":"関連投稿","label":"8月15日 関連Instagram投稿","url":"https://www.instagram.com/p/DcI5GLAp6TS/"}],
+    "open": "17:30",
+    "start": "18:00",
+    "price": "前売 ¥3,000／当日 ¥3,500／ドリンク ¥700",
+    "performers": "PapiLio／MAKOTONI／藍白へて茜まで",
+    "note": "各アーティスト40分ステージ"
   },
   {
     "id": "2026-08-16",
