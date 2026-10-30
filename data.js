@@ -235,7 +235,8 @@ export const lives=[
     "start": "15:00",
     "price": "無料（先着40名・要メール予約）",
     "performers": "PapiLio",
-    "note": "会場：東京都西東京市田無町6-7-5。予約受付開始：7月1日。予約メール：papilionne8888@gmail.com。教会問い合わせ：042-458-3555。フライヤー画像は登録準備中。"
+    "note": "会場：東京都西東京市田無町6-7-5。予約受付開始：7月1日。予約メール：papilionne8888@gmail.com。教会問い合わせ：042-458-3555。",
+    "images": [{"src":"./papilio-2026-10-12-special-live-flyer.webp","alt":"2026年10月12日 PapiLio special live 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-10-12-2",
