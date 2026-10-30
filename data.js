@@ -175,7 +175,8 @@ export const lives=[
     "start": "18:00",
     "price": "前売 ¥3,000／当日 ¥3,500／ドリンク ¥700",
     "performers": "PapiLio／MAKOTONI／藍白へて茜まで",
-    "note": "各アーティスト40分ステージ"
+    "note": "各アーティスト40分ステージ",
+    "images": [{"src":"./papilio-2026-08-15-16-main.webp","alt":"2026年8月15日・16日 参 2DAYS THREE MAN LIVE 共通フライヤー","label":"2DAYS 共通フライヤー"},{"src":"./papilio-2026-08-15-day1.webp","alt":"2026年8月15日 DAY1 真剣勝負編 フライヤー","label":"DAY1 真剣勝負編 フライヤー"}]
   },
   {
     "id": "2026-08-16",
@@ -191,7 +192,8 @@ export const lives=[
     "start": "18:00",
     "price": "前売 ¥3,000／当日 ¥3,500（別途1ドリンク）",
     "performers": "PapiLio／MAKOTONI／藍白へて茜まで",
-    "note": "各アーティストのミニステージ（20分・3曲ずつ）と出演者全員によるスペシャルコラボライブ"
+    "note": "各アーティストのミニステージ（20分・3曲ずつ）と出演者全員によるスペシャルコラボライブ",
+    "images": [{"src":"./papilio-2026-08-15-16-main.webp","alt":"2026年8月15日・16日 参 2DAYS THREE MAN LIVE 共通フライヤー","label":"2DAYS 共通フライヤー"},{"src":"./papilio-2026-08-16-day2.webp","alt":"2026年8月16日 DAY2 アフターパーティー編 フライヤー","label":"DAY2 アフターパーティー編 フライヤー"}]
   },
   {
     "id": "2026-08-27",
