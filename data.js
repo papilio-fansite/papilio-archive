@@ -42,14 +42,19 @@ export const lives=[
   },
   {
     "id": "2026-03-02",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto presents「Stories」",
     "date": "2026-03-02",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-03-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2016843774853599653"}],
+    "videos": [],
+    "performers": "SHiFON／詩春.／亜偉瑠／PapiLio",
+    "open": "18:30",
+    "start": "19:00",
+    "price": "来場 ¥2,500（別途ドリンク代）",
+    "stream": "配信 ¥2,500。配信アーカイブ販売期限：2026年3月16日 23:59、視聴期間14日間。来場者向け配信視聴券は＋¥1,500。"
   },
   {
     "id": "2026-03-16",
@@ -86,14 +91,15 @@ export const lives=[
   },
   {
     "id": "2026-05-06",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto presents「星空キャンドルナイト」",
     "date": "2026-05-06",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-05-06 公演関連投稿","url":"https://x.com/somenokyoto/status/2051887064556409109"}],
+    "videos": [],
+    "performers": "古田愛弓／前田葵／満月／PapiLio／REA／amaNe"
   },
   {
     "id": "2026-05-11",
@@ -108,14 +114,15 @@ export const lives=[
   },
   {
     "id": "2026-06-02",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto presents「Stories」",
     "date": "2026-06-02",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-06-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2052357789763199457"}],
+    "videos": [],
+    "performers": "風未／PapiLio／七凪"
   },
   {
     "id": "2026-06-08",
@@ -152,14 +159,17 @@ export const lives=[
   },
   {
     "id": "2026-07-16",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto presents「浴衣でGO!GO!」",
     "date": "2026-07-16",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-07-16 公演関連投稿","url":"https://x.com/somenokyoto/status/2077359896249659848"}],
+    "videos": [],
+    "performers": "PapiLio／汐杏／美侑",
+    "open": "18:30",
+    "start": "19:00"
   },
   {
     "id": "2026-08-15",
