@@ -163,9 +163,9 @@ export const lives=[
   },
   {
     "id": "2026-08-15",
-    "title": "公演情報（詳細準備中）",
+    "title": "参 2DAYS THREE MAN LIVE｜DAY1 真剣勝負編",
     "date": "2026-08-15",
-    "venue": null,
+    "venue": "吉祥寺 曼荼羅",
     "status": "past",
     "source": null,
     "setlist": [{"title":"poison"},{"title":"stay just the way you are"},{"title":"trailer"},{"title":"あといっぽ"},{"title":"tell me baby"},{"title":"サルビア"},{"title":"No Perfect"}],
@@ -174,14 +174,19 @@ export const lives=[
   },
   {
     "id": "2026-08-16",
-    "title": "公演情報（詳細準備中）",
+    "title": "参 2DAYS THREE MAN LIVE｜DAY2 アフターパーティー編",
     "date": "2026-08-16",
-    "venue": null,
+    "venue": "千歳烏山 CAFE & BAR オーケストラ",
     "status": "past",
     "source": null,
     "setlist": [],
     "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"8月16日 関連X投稿","url":"https://x.com/papilio_osaka/status/2089798293320867889"}],
-    "videos": []
+    "videos": [],
+    "open": "17:30",
+    "start": "18:00",
+    "price": "前売 ¥3,000／当日 ¥3,500（別途1ドリンク）",
+    "performers": "PapiLio／MAKOTONI／藍白へて茜まで",
+    "note": "各アーティストのミニステージ（20分・3曲ずつ）と出演者全員によるスペシャルコラボライブ"
   },
   {
     "id": "2026-08-27",
