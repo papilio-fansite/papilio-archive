@@ -168,9 +168,9 @@ export const lives=[
     "venue": null,
     "status": "past",
     "source": null,
-    "setlist": [],
-    "posts": [],
-    "videos": []
+    "setlist": [{"title":"poison"},{"title":"stay just the way you are"},{"title":"trailer"},{"title":"あといっぽ"},{"title":"tell me baby"},{"title":"サルビア"},{"title":"No Perfect"}],
+    "posts": [{"platform":"X","account":"mk_tn_official","type":"公演関連投稿","label":"8月15日 関連X投稿","url":"https://x.com/mk_tn_official/status/2089192631855391231"}],
+    "videos": [{"platform":"Instagram","type":"関連投稿","label":"8月15日 関連Instagram投稿","url":"https://www.instagram.com/p/DcI5GLAp6TS/"}]
   },
   {
     "id": "2026-08-16",
@@ -180,7 +180,7 @@ export const lives=[
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
+    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"8月16日 関連X投稿","url":"https://x.com/papilio_osaka/status/2089798293320867889"}],
     "videos": []
   },
   {
