@@ -223,15 +223,19 @@ export const lives=[
   },
   {
     "id": "2026-10-12-1",
-    "title": "PapiLio 初単独LIVE",
+    "title": "PapiLio special live",
     "date": "2026-10-12",
-    "venue": "教会（会場名未確認）",
+    "venue": "日本基督教団 西東京教会",
     "status": "past",
     "source": "https://x.com/papilio_osaka",
     "setlist": [],
     "posts": [],
     "videos": [],
-    "note": "グランドピアノ生演奏"
+    "open": "14:30",
+    "start": "15:00",
+    "price": "無料（先着40名・要メール予約）",
+    "performers": "PapiLio",
+    "note": "会場：東京都西東京市田無町6-7-5。予約受付開始：7月1日。予約メール：papilionne8888@gmail.com。教会問い合わせ：042-458-3555。フライヤー画像は登録準備中。"
   },
   {
     "id": "2026-10-12-2",
