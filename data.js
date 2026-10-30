@@ -196,14 +196,19 @@ export const lives=[
   },
   {
     "id": "2026-08-29",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto presents「Stories」",
     "date": "2026-08-29",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"someno kyoto｜8月29日 Stories 関連投稿","url":"https://x.com/somenokyoto/status/2093283377558512065"}],
+    "videos": [],
+    "open": "13:00",
+    "start": "13:30",
+    "price": "前売 ¥2,500／当日 ¥3,000（別途ドリンク代）",
+    "performers": "PapiLio／前田葵／異星人",
+    "stream": "配信チケット ¥2,500／配信視聴券付き来場チケットは来場料金＋¥1,500。アーカイブ販売期限：2026年9月12日 23:59、視聴期間14日間"
   },
   {
     "id": "2026-09-25",
