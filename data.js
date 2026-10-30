@@ -230,7 +230,7 @@ export const lives=[
     "source": "https://x.com/papilio_osaka",
     "setlist": [],
     "posts": [],
-    "videos": [],
+    "videos": [{"platform":"Instagram","account":"PapiLio","type":"ライブ動画","label":"10月12日 教会ライブのリール動画","url":"https://www.instagram.com/reel/De1be-LpXol/"}],
     "open": "14:30",
     "start": "15:00",
     "price": "無料（先着40名・要メール予約）",
