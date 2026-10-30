@@ -168,7 +168,7 @@ export const lives=[
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-07-16 公演関連投稿","url":"https://x.com/somenokyoto/status/2077359896249659848"}],
+    "posts": [],
     "videos": [],
     "performers": "PapiLio／汐杏／美侑",
     "open": "18:30",
