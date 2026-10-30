@@ -162,7 +162,8 @@ export const lives=[
     "performers": "REA／PapiLio／音希。／満月／ミライト",
     "open": "18:00",
     "start": "18:30",
-    "price": "前売 ¥2,800／当日 ¥3,300"
+    "price": "前売 ¥2,800／当日 ¥3,300",
+    "images": [{"src":"./papilio-2026-07-14-flyer.webp","alt":"2026年7月14日 Natural Woman 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-07-16",
