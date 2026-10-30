@@ -311,10 +311,14 @@ export const lives=[
     "venue": "南堀江knave",
     "status": "past",
     "source": "https://x.com/papilio_osaka",
+    "open": "18:00",
+    "start": "18:30",
+    "price": "前売 ¥2,800／当日 ¥3,300（別途ドリンク代 ¥600）",
+    "performers": "PapiLio／福寿たいき／Ei／佐久間丈幸",
     "setlist": [],
     "posts": [],
     "videos": [],
-    "note": "PapiLioがトリを担当"
+    "note": "PapiLioがトリを担当。会場掲示の出演者・開演時間・料金を確認済み。"
   },
   {
       "id": "2026-11-24",
