@@ -318,7 +318,8 @@ export const lives=[
     "setlist": [],
     "posts": [],
     "videos": [],
-    "note": "PapiLioがトリを担当。会場掲示の出演者・開演時間・料金を確認済み。"
+    "note": "PapiLioがトリを担当。会場掲示の出演者・開演時間・料金を確認済み。",
+    "images": [{"src":"./papilio_2026-10-21_live.webp","alt":"2026年10月21日 LoversRock 会場掲示写真","label":"会場掲示写真"}]
   },
   {
       "id": "2026-11-24",
