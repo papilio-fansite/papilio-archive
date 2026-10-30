@@ -219,7 +219,8 @@ export const lives=[
     "start": "19:00",
     "price": "前売・予約 ¥2,800／当日 ¥3,300（ドリンク代別）",
     "performers": "栗林竜吾／水沼遼太／PapiLio／関口憂一／Mayuro",
-    "stream": "ツイキャスプレミア配信 ¥2,500（アーカイブあり）"
+    "stream": "ツイキャスプレミア配信 ¥2,500（アーカイブ視聴期間14日間）",
+    "images": [{"src":"./papilio-2026-09-25-flyer.webp","alt":"2026年9月25日 Assemble 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-10-12-1",
