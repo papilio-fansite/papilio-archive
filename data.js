@@ -212,7 +212,7 @@ export const lives=[
     "venue": "someno kyoto",
     "status": "past",
     "source": "https://tiget.net/events/514946",
-    "setlist": [],
+    "setlist": [{"title":"No Perfect"},{"title":"trailer"},{"title":"poison"},{"title":"うたかた"},{"title":"サルビア"},{"title":"stay just the way you are"}],
     "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"PapiLio｜9月25日 Assemble 関連投稿","url":"https://x.com/papilio_osaka/status/2103546374851858747"}],
     "videos": [{"platform":"Instagram","account":"PapiLio","type":"ライブ動画","label":"9月25日 Assemble 関連リール","url":"https://www.instagram.com/reel/Dd3mi53MQiw/"}],
     "open": "18:30",
