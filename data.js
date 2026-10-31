@@ -48,7 +48,7 @@ export const lives=[
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-03-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2016843774853599653"}],
+    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"2026年3月2日 PapiLio公式X投稿","url":"https://x.com/papilio_osaka/status/2029351815188451545"}],
     "videos": [],
     "performers": "SHiFON／詩春.／亜偉瑠／PapiLio",
     "open": "18:30",
