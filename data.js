@@ -105,14 +105,19 @@ export const lives=[
   },
   {
     "id": "2026-05-11",
-    "title": "公演情報（詳細準備中）",
+    "title": "Bitter&Sweet",
     "date": "2026-05-11",
-    "venue": null,
+    "venue": "南堀江knave",
     "status": "past",
     "source": null,
-    "setlist": [],
+    "setlist": [{"title":"poison 〜op version〜"},{"title":"circus / showmore"},{"title":"tell me baby"},{"title":"君は生きている"},{"title":"サルビア"},{"title":"No perfect"}],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "performers": "Stardust Alone／小川泉／PapiLio／リリィズ＝レプシー",
+    "open": "18:30",
+    "start": "19:00",
+    "price": "前売 ¥2,800／当日 ¥3,300（別途ドリンク代 ¥600）",
+    "note": "PapiLioドラムサポート：窪龍樹"
   },
   {
     "id": "2026-06-02",
