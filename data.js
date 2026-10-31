@@ -89,14 +89,19 @@ export const lives=[
   },
   {
     "id": "2026-04-24",
-    "title": "公演情報（詳細準備中）",
+    "title": "parallel glow 〜vol.2〜",
     "date": "2026-04-24",
-    "venue": null,
+    "venue": "南堀江knave",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"4月24日 PapiLio公式X投稿①","url":"https://x.com/papilio_osaka/status/2047905102330216721"},{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"4月24日 PapiLio公式X投稿②","url":"https://x.com/papilio_osaka/status/2047010292941688944"}],
+    "videos": [],
+    "performers": "藍白へて茜まで／PapiLio",
+    "open": "18:30",
+    "start": "19:00",
+    "price": "前売 ¥3,500／当日 ¥4,000（別途1ドリンク）",
+    "images": [{"src":"./papilio-2026-04-24-flyer.webp","alt":"2026年4月24日 parallel glow 〜vol.2〜 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-05-06",
