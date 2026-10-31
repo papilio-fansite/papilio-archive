@@ -129,25 +129,33 @@ export const lives=[
   },
   {
     "id": "2026-06-08",
-    "title": "公演情報（詳細準備中）",
+    "title": "pnk pre.「and You vol.36」",
     "date": "2026-06-08",
-    "venue": null,
+    "venue": "代官山NOMAD",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"06-08 関連X投稿","url":"https://x.com/papilio_osaka/status/2053903550548463844"},{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"6月8日・9日 共通X投稿","url":"https://x.com/papilio_osaka/status/2064467257598890069"}],
+    "videos": [],
+    "performers": "ウチハタハナ／PapiLio／杏珠",
+    "open": "18:30",
+    "start": "19:00",
+    "price": "来場 ¥2,800（+1D）／配信 ¥2,000"
   },
   {
     "id": "2026-06-09",
-    "title": "公演情報（詳細準備中）",
+    "title": "暁に向かって梟は飛ぶ",
     "date": "2026-06-09",
-    "venue": null,
+    "venue": "DY CUBE",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"DY CUBE","type":"公演関連投稿","label":"06-09 関連X投稿","url":"https://x.com/livehousedycube/status/2064249248716325203"},{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"6月8日・9日 共通X投稿","url":"https://x.com/papilio_osaka/status/2064467257598890069"}],
+    "videos": [],
+    "performers": "カナザワマナブ／上兼堅／PapiLio／猫世界",
+    "open": "18:30",
+    "start": "19:00",
+    "price": "来場 ¥2,400（+1ドリンク ¥700）／配信 ¥2,000"
   },
   {
     "id": "2026-07-14",
