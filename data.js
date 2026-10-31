@@ -15,8 +15,10 @@ export const lives=[
     "open": "18:00",
     "start": "18:30",
     "appearance": "19:10〜19:40（2番目）",
-    "price": "前売 ¥2,800／当日 ¥3,300",
-    "note": "サポートドラム：窪龍樹"
+    "price": "前売 ¥2,800／当日 ¥3,300（別途ドリンク代 ¥600）",
+    "note": "サポートドラム：窪龍樹",
+    "performers": "齋明寺麻里愛／満月／鳥井紗希／PapiLio／ヤマサキマナミ",
+    "images": [{"src":"./papilio-2026-01-08-flyer.webp","alt":"2026年1月8日 NaturalWoman-Pianoday- 公演案内フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-02-05",
