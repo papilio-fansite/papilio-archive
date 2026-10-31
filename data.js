@@ -174,7 +174,7 @@ export const lives=[
     "source": null,
     "setlist": [],
     "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"7月16日 PapiLio公式X投稿①","url":"https://x.com/papilio_osaka/status/2077832749235519727"},{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"7月16日 PapiLio公式X投稿②","url":"https://x.com/papilio_osaka/status/2076197274523447792"}],
-    "videos": [],
+    "videos": [{"platform":"Instagram","type":"関連動画","label":"7月16日「浴衣でGO!GO!」Instagramリール","url":"https://www.instagram.com/reel/Dd89X99pT_1/"}],
     "performers": "PapiLio／汐杏／美侑",
     "open": "18:30",
     "start": "19:00",
