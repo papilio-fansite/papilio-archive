@@ -128,7 +128,7 @@ export const lives=[
     "status": "cancelled",
     "source": null,
     "setlist": [],
-    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-06-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2052357789763199457"}],
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-06-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2052357789763199457"},{"platform":"X","account":"someno kyoto","type":"開催中止のお知らせ","label":"6月2日 Stories 開催中止のお知らせ","url":"https://x.com/somenokyoto/status/2061382224201818280"}],
     "videos": [],
     "performers": "風未／PapiLio／七凪",
     "images": [{"src":"./papilio-2026-06-02-flyer.webp","alt":"2026-06-02 公演フライヤー","label":"公演フライヤー"}],
