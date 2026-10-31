@@ -125,7 +125,7 @@ export const lives=[
     "title": "someno kyoto presents「Stories」",
     "date": "2026-06-02",
     "venue": "someno kyoto",
-    "status": "past",
+    "status": "cancelled",
     "source": null,
     "setlist": [],
     "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-06-02 公演関連投稿","url":"https://x.com/somenokyoto/status/2052357789763199457"}],
@@ -135,9 +135,9 @@ export const lives=[
     "open": "18:30",
     "start": "19:00",
     "price": "前売 ¥2,500／当日 ¥3,000（別途1ドリンク ¥600 または2ドリンク ¥1,000）／配信 ¥2,500／来場者向け配信視聴券 +¥1,500",
-    "appearance": "20:10〜20:40（予定）",
+    "appearance": "20:10〜20:40（中止前の予定）",
     "stream": "someno kyoto ツイキャスプレミア／¥2,500／アーカイブ14日間／販売終了：2026年6月16日23:59",
-    "note": "出演順：風未 19:00〜19:30／七凪 19:35〜20:05／PapiLio 20:10〜20:40（進行により変更あり）。入場は当日の来場先着順。来場予約：TIGET https://tiget.net/events/488042"
+    "note": "台風接近に伴う安全確保のため開催中止。以下は開催予定時の情報です。出演順：風未 19:00〜19:30／七凪 19:35〜20:05／PapiLio 20:10〜20:40（進行により変更あり）。入場は当日の来場先着順。来場予約：TIGET https://tiget.net/events/488042"
   },
   {
     "id": "2026-06-08",
