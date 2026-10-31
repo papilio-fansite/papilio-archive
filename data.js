@@ -194,7 +194,10 @@ export const lives=[
     "performers": "PapiLio／汐杏／美侑",
     "open": "18:30",
     "start": "19:00",
-    "images": [{"src":"./papilio-2026-07-16-flyer.webp","alt":"2026-07-16 公演フライヤー","label":"公演フライヤー"}]
+    "images": [{"src":"./papilio-2026-07-16-flyer.webp","alt":"2026-07-16 公演フライヤー","label":"公演フライヤー"}],
+    "appearance": "19:40〜（予定・2番手）",
+    "stream": "someno kyoto ツイキャスプレミア／¥2,500／アーカイブ14日間／販売終了：2026年7月30日23:59",
+    "note": "出演順：美侑 19:00〜／PapiLio 19:40〜／汐杏 20:20〜（進行により変更あり）。来場予約：TIGET https://tiget.net/events/500479（会場投稿では予約取り置きの案内あり）"
   },
   {
     "id": "2026-08-15",
