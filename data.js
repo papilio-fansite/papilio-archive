@@ -70,14 +70,22 @@ export const lives=[
   },
   {
     "id": "2026-04-01",
-    "title": "公演情報（詳細準備中）",
+    "title": "someno kyoto presents「AS IS」",
     "date": "2026-04-01",
-    "venue": null,
+    "venue": "someno kyoto",
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [],
-    "videos": []
+    "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026年4月1日 AS IS 公演告知","url":"https://x.com/somenokyoto/status/2029164962426544305"}],
+    "videos": [],
+    "performers": "たきすず／ROCO／前田葵／PapiLio",
+    "open": "18:30",
+    "start": "19:00",
+    "appearance": "19:35〜20:05（予定）",
+    "price": "前売 ¥2,500／当日 ¥3,000（別途1ドリンク ¥600 または2ドリンク ¥1,000）／配信 ¥2,500／来場者向け配信視聴券 +¥1,500",
+    "stream": "someno kyoto ツイキャスプレミア／¥2,500／アーカイブ視聴14日間／販売終了：2026年4月15日23:59",
+    "note": "出演順：たきすず 19:00〜19:30／PapiLio 19:35〜20:05／前田葵 20:10〜20:40／ROCO 20:45〜21:15（変更の可能性あり）。入場は来場先着順。TIGET予約：https://tiget.net/events/471662（申込期限：2026年4月1日23:59）。",
+    "images": [{"src":"./papilio-2026-04-01-flyer.webp","alt":"2026年4月1日 AS IS 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-04-24",
