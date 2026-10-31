@@ -101,7 +101,12 @@ export const lives=[
     "posts": [{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026-05-06 公演関連投稿","url":"https://x.com/somenokyoto/status/2051887064556409109"}],
     "videos": [],
     "performers": "古田愛弓／前田葵／満月／PapiLio／REA／amaNe",
-    "images": [{"src":"./papilio-2026-05-06-flyer.webp","alt":"2026-05-06 公演フライヤー","label":"公演フライヤー"}]
+    "images": [{"src":"./papilio-2026-05-06-flyer.webp","alt":"2026-05-06 公演フライヤー","label":"公演フライヤー"}],
+    "open": "17:30",
+    "start": "18:00",
+    "price": "前売 ¥2,500／当日 ¥3,000（別途1ドリンク ¥600 または2ドリンク ¥1,000）／来場者向け配信視聴券 +¥1,500",
+    "stream": "someno kyoto ツイキャスプレミア／配信チケット ¥2,500／アーカイブ視聴14日間／アーカイブ販売終了：2026年5月20日23:59",
+    "note": "来場者向け配信視聴券はアーカイブ視聴14日間付き。配信チケットの購入URLはスクリーンショット内で省略されているため未登録。"
   },
   {
     "id": "2026-05-11",
