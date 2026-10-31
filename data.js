@@ -117,7 +117,8 @@ export const lives=[
     "open": "18:30",
     "start": "19:00",
     "price": "前売 ¥2,800／当日 ¥3,300（別途ドリンク代 ¥600）",
-    "note": "PapiLioドラムサポート：窪龍樹"
+    "note": "PapiLioドラムサポート：窪龍樹",
+    "images": [{"src":"./papilio-2026-05-11-venue-notice.webp","alt":"2026年5月11日 Bitter&Sweet 会場公演案内","label":"公演案内"},{"src":"./papilio-2026-05-11-setlist.webp","alt":"2026年5月11日 PapiLio セットリスト画像","label":"セットリスト"}]
   },
   {
     "id": "2026-06-02",
