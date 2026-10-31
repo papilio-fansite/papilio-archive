@@ -111,14 +111,14 @@ export const lives=[
     "status": "past",
     "source": null,
     "setlist": [{"title":"poison 〜op version〜"},{"title":"circus / showmore"},{"title":"tell me baby"},{"title":"君は生きている"},{"title":"サルビア"},{"title":"No perfect"}],
-    "posts": [],
+    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"5月11日 PapiLio公式X投稿","url":"https://x.com/papilio_osaka/status/2053817140625752242"}],
     "videos": [],
     "performers": "Stardust Alone／小川泉／PapiLio／リリィズ＝レプシー",
     "open": "18:30",
     "start": "19:00",
     "price": "前売 ¥2,800／当日 ¥3,300（別途ドリンク代 ¥600）",
     "note": "PapiLioドラムサポート：窪龍樹",
-    "images": [{"src":"./papilio-2026-05-11-venue-notice.webp","alt":"2026年5月11日 Bitter&Sweet 会場公演案内","label":"公演案内"},{"src":"./papilio-2026-05-11-setlist.webp","alt":"2026年5月11日 PapiLio セットリスト画像","label":"セットリスト"}]
+    "images": [{"src":"./papilio-2026-05-11-flyer.webp","alt":"2026年5月11日 Bitter&Sweet 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-06-02",
