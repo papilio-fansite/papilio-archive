@@ -95,7 +95,7 @@ export const lives=[
     "status": "past",
     "source": null,
     "setlist": [],
-    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"2026-04-01 PapiLio公式X投稿","url":"https://x.com/papilio_osaka/status/2039384534152806477"},{"platform":"X","account":"someno kyoto","type":"公演関連投稿","label":"2026年4月1日 AS IS 公演告知","url":"https://x.com/somenokyoto/status/2029164962426544305"}],
+    "posts": [{"platform":"X","account":"PapiLio","type":"公演関連投稿","label":"2026-04-01 PapiLio公式X投稿","url":"https://x.com/papilio_osaka/status/2039384534152806477"},{"platform":"Instagram","type":"公演関連写真投稿","label":"4月1日 Instagram投稿","url":"https://www.instagram.com/p/DWmLCnSifFL/"}],
     "videos": [],
     "performers": "たきすず／ROCO／前田葵／PapiLio",
     "open": "18:30",
