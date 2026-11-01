@@ -280,7 +280,7 @@ export const lives=[
     "id": "2026-08-27",
     "title": "More Than Music !!",
     "date": "2026-08-27",
-    "venue": null,
+    "venue": "南堀江knave",
     "status": "past",
     "source": null,
     "setlist": [],
