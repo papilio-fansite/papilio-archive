@@ -278,14 +278,19 @@ export const lives=[
   },
   {
     "id": "2026-08-27",
-    "title": "公演情報（詳細準備中）",
+    "title": "More Than Music !!",
     "date": "2026-08-27",
     "venue": null,
     "status": "past",
     "source": null,
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "open": "18:00",
+    "start": "18:30",
+    "price": "前売 ¥2,800（別途ドリンク代 ¥600）",
+    "performers": "はんねおち／PapiLio／The AlanSmitthyBand／森かずおバンド／サンマーメン",
+    "images": [{"src":"./papilio-2026-08-27-flyer.webp","alt":"2026年8月27日 More Than Music !! 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-08-29",
