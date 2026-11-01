@@ -290,7 +290,7 @@ export const lives=[
     "start": "18:30",
     "price": "前売 ¥2,800（別途ドリンク代 ¥600）",
     "performers": "はんねおち／PapiLio／The AlanSmitthyBand／森かずおバンド／サンマーメン",
-    "images": [{"src":"./papilio-2026-08-27-flyer.webp","alt":"2026年8月27日 More Than Music !! 公演フライヤー","label":"公演フライヤー"}]
+    "images": [{"src":"./papilio-2026-08-27-flyer.WEBP","alt":"2026年8月27日 More Than Music !! 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-08-29",
