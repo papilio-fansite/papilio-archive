@@ -73,14 +73,19 @@ export const lives=[
   },
   {
     "id": "2026-03-16",
-    "title": "公演情報（詳細準備中）",
+    "title": "Bitter&Sweet",
     "date": "2026-03-16",
-    "venue": null,
+    "venue": "南堀江knave",
     "status": "past",
     "source": null,
     "setlist": [],
     "posts": [],
-    "videos": []
+    "videos": [],
+    "performers": "Syzygy／いろかにほへと／PapiLio／カミカワユウナ（band set）",
+    "open": "18:30",
+    "start": "19:00",
+    "price": "前売 ¥2,800（別途1ドリンク）／当日料金未確認",
+    "images": [{"src":"./papilio-2026-03-16-flyer.webp","alt":"2026年3月16日 Bitter&Sweet 公演フライヤー","label":"公演フライヤー"}]
   },
   {
     "id": "2026-04-01",
