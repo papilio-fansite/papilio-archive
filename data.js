@@ -251,7 +251,7 @@ export const lives=[
     "source": null,
     "setlist": [{"title":"poison"},{"title":"stay just the way you are"},{"title":"trailer"},{"title":"あといっぽ"},{"title":"tell me baby"},{"title":"サルビア"},{"title":"No Perfect"}],
     "posts": [{"platform":"X","account":"mk_tn_official","type":"公演関連投稿","label":"8月15日 関連X投稿","url":"https://x.com/mk_tn_official/status/2089192631855391231"},{"platform":"X","account":"ゆっけ","type":"公演関連投稿","label":"8月15日 ゆっけ X投稿","url":"https://x.com/yucchan0905/status/2095135691319676944"},{"platform":"Instagram","type":"公演関連SNS投稿","label":"8月15日 関連Instagram投稿","url":"https://www.instagram.com/p/DcI5GLAp6TS/"},{"platform":"Instagram","type":"公演関連SNS投稿","label":"8月15日 関連Instagram投稿②","url":"https://www.instagram.com/p/DcQOxa_k-E7/"}],
-    "videos": [],
+    "videos": [{"platform":"Instagram","type":"リール動画","label":"8月15日 Instagramリール","url":"https://www.instagram.com/reel/DfUaE8tM-q-/"}],
     "open": "17:30",
     "start": "18:00",
     "price": "前売 ¥3,000／当日 ¥3,500／ドリンク ¥700",
