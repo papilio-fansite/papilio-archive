@@ -493,6 +493,9 @@ export const socials=[{name:'Instagram',mark:'↗',description:'写真と最新�
 
 // サイト更新履歴。日時が不明な過去の更新は時刻を記載しません。
 export const siteUpdates=[
+  {date:'2026.11.23',time:null,title:'SONGSを更新しました',description:'公式MVに曲名（サルビア／No Perfect／tell me baby）を表示しました。',href:'#/songs'},
+  {date:'2026.11.23',time:null,title:'LIVEを更新しました',description:'過去の公演を新しい順にし、詳細ではセットリスト・関連投稿・動画を、情報がある公演だけ表示するようにしました。',href:'#/live'},
+  {date:'2026.11.23',time:null,title:'PROFILEを更新しました',description:'ゆっけの担当表記をPianoに統一しました。',href:'#/profile'},
   {date:'2026.10.30',time:null,title:'HOMEを更新しました',description:'NEWSをサイト更新履歴に変更し、ページ下部へ移動しました。',href:'#/'},
   {date:'2026.10.30',time:null,title:'12月16日のLIVE詳細を更新しました',description:'公演情報を追記しました。',href:'#/live/2026-12-16'},
   {date:'2026.10.30',time:null,title:'公式PVをMEDIAに追加しました',description:'サイト内でYouTube動画を再生できるようになりました。',href:'#/media'}
