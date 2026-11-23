@@ -24,3 +24,9 @@
 
 /* Official PV embed */
 .pv-section{padding-top:40px}.pv-video{position:relative;width:100%;max-width:900px;aspect-ratio:16/9;overflow:hidden;border:1px solid rgba(194,166,232,.3);border-radius:16px;background:#08080f}.pv-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}.pv-caption{margin:12px 0 0;color:var(--muted);font-size:14px}.pv-caption a{color:var(--accent)}
+
+/* LIVE tabs */
+.live-tabs{display:flex;gap:10px;margin:0 9%;padding-top:30px}
+.live-tabs a{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:10px 26px;border:1px solid var(--line);font-size:11px;letter-spacing:1.6px;color:var(--muted)}
+.live-tabs a[aria-current]{color:#e2d6f5;border-color:#bca9e055;background:#bca9e014}
+@media(max-width:760px){.live-tabs{margin:0 7%;padding-top:22px}.live-tabs a{flex:1;padding:10px 8px}}
