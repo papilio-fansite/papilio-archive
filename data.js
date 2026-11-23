@@ -489,10 +489,16 @@ export const lives=[
 ];
 // 公演追加例（確認済みの情報に置き換えてから lives に追加）:
 // {id:'unique-id',title:'確認済みの公演名',date:'2026-01-01',venue:'会場',status:'past',source:'https://...',setlist:[{title:'曲名',note:'出典補足'}],posts:[{label:'公演告知',url:'https://...'}],videos:[{label:'動画名',url:'https://...'}]}
+export const streetLives=[
+  {date:'2026-11-16',song:'掌',url:'https://www.instagram.com/reel/Df9bpWVFQYg/'},
+  {date:'2026-11-08',song:'サルビア',url:'https://www.instagram.com/reel/Df1cDWkPD4w/'},
+  {date:'2026-11-02',song:'君は生きている',url:'https://www.instagram.com/reel/DflVh5nzMtK/'}
+];
 export const socials=[{name:'Instagram',mark:'↗',description:'写真と最新のお知らせ',url:'https://www.instagram.com/papilio_osaka/'},{name:'X',mark:'↗',description:'最新情報と日々の投稿',url:'https://x.com/papilio_osaka'},{name:'TikTok',mark:'↗',description:'ショート動画と音楽の記録',url:'https://www.tiktok.com/@papilio_osaka'},{name:'YouTube',mark:'↗',description:'PapiLioの動画・音楽',url:'https://www.youtube.com/@papilionne'}];
 
 // サイト更新履歴。日時が不明な過去の更新は時刻を記載しません。
 export const siteUpdates=[
+  {date:'2026.11.23',time:null,title:'LIVEに路上ライブの記録を追加しました',description:'路上ライブの日付ごとに、代表動画へのリンクを掲載しました（11月16日・8日・2日）。',href:'#/live'},
   {date:'2026.11.23',time:null,title:'SONGSを更新しました',description:'公式MVに曲名（サルビア／No Perfect／tell me baby）を表示しました。',href:'#/songs'},
   {date:'2026.11.23',time:null,title:'LIVEを更新しました',description:'過去の公演を新しい順にし、詳細ではセットリスト・関連投稿・動画を、情報がある公演だけ表示するようにしました。',href:'#/live'},
   {date:'2026.11.23',time:null,title:'PROFILEを更新しました',description:'ゆっけの担当表記をPianoに統一しました。',href:'#/profile'},
