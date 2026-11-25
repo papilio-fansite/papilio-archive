@@ -438,7 +438,7 @@ export const lives=[
       "title": "someno kyoto 9th Anniversary「つきあかりのうた」",
       "date": "2026-11-24",
       "venue": "someno kyoto（京都）",
-      "status": "upcoming",
+      "status": "past",
       "open": "18:30",
       "start": "19:00",
       "price": "前売 ¥2,800 / 当日 ¥3,300（別途ドリンク代：1杯 ¥600 または2杯 ¥1,000）",
@@ -446,7 +446,14 @@ export const lives=[
       "stream": "ツイキャスプレミア ¥2,500（アーカイブ視聴は12/8 23:59まで）",
       "note": "someno kyoto 9周年記念公演。来場者限定の配信アーカイブ視聴券は¥1,500。来場予約は11/23 23:59まで。",
       "source": "https://tiget.net/events/532021",
-      "setlist": [],
+      "setlist": [
+        {"title": "Love Life", "note": "orange pekoe カバー"},
+        {"title": "あといっぽ"},
+        {"title": "Stay just the way you are"},
+        {"title": "泡沫"},
+        {"title": "掌", "note": "tenohira"}
+      ],
+      "setlistImage": {"src": "./papilio-2026-11-24-setlist.webp", "alt": "2026年11月24日 someno kyoto 手書きセットリスト", "label": "セットリスト（PapiLio公式Instagramストーリー）"},
       "posts": [
           {
               "platform": "X",
@@ -498,6 +505,7 @@ export const socials=[{name:'Instagram',mark:'↗',description:'写真と最新�
 
 // サイト更新履歴。日時が不明な過去の更新は時刻を記載しません。
 export const siteUpdates=[
+  {date:'2026.11.25',time:null,title:'11月24日公演のセットリストを掲載しました',description:'someno kyoto「つきあかりのうた」のセットリスト（5曲）と、手書きセットリストの画像を追加しました。',href:'#/live/2026-11-24'},
   {date:'2026.11.23',time:null,title:'LIVEに路上ライブの記録を追加しました',description:'路上ライブの日付ごとに、代表動画へのリンクを掲載しました（11月16日・8日・2日）。公演と路上ライブはタブで切り替えて表示します。',href:'#/live'},
   {date:'2026.11.23',time:null,title:'SONGSを更新しました',description:'公式MVに曲名（サルビア／No Perfect／tell me baby）を表示しました。',href:'#/songs'},
   {date:'2026.11.23',time:null,title:'LIVEを更新しました',description:'過去の公演を新しい順にし、詳細ではセットリスト・関連投稿・動画を、情報がある公演だけ表示するようにしました。',href:'#/live'},
