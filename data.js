@@ -497,7 +497,7 @@ export const lives=[
 // 公演追加例（確認済みの情報に置き換えてから lives に追加）:
 // {id:'unique-id',title:'確認済みの公演名',date:'2026-01-01',venue:'会場',status:'past',source:'https://...',setlist:[{title:'曲名',note:'出典補足'}],posts:[{label:'公演告知',url:'https://...'}],videos:[{label:'動画名',url:'https://...'}]}
 export const streetLives=[
-  {date:'2026-11-16',song:'掌',url:'https://www.instagram.com/reel/Df9bpWVFQYg/'},
+  {date:'2026-11-16',song:'Trailer',url:'https://www.instagram.com/reel/Df__id5TmlX/'},
   {date:'2026-11-08',song:'サルビア',url:'https://www.instagram.com/reel/Df1cDWkPD4w/'},
   {date:'2026-11-02',song:'君は生きている',url:'https://www.instagram.com/reel/DflVh5nzMtK/'}
 ];
