@@ -492,6 +492,19 @@ export const lives=[
     "stream": "配信 ¥2,500（視聴URL未確認）",
     "note": "PapiLio 1周年記念ライブ。会場：大阪府大阪市西区南堀江3丁目11-21 Tall Valley。問い合わせ：papilionne8888@gmail.com。",
     "images": [{"src":"./papilio-2026-12-16-flyer.webp","alt":"2026年12月16日 PapiLio 1st Anniversary LIVE 公演フライヤー","label":"公演フライヤー"}]
+  },
+  {
+    "id": "2027-01-15",
+    "title": "タイトル未定",
+    "date": "2027-01-15",
+    "venue": "未定",
+    "status": "upcoming",
+    "source": null,
+    "setlist": [],
+    "posts": [],
+    "videos": [],
+    "note": "詳細未定（2026年11月28日時点）。分かり次第、更新します。",
+    "images": []
   }
 ];
 // 公演追加例（確認済みの情報に置き換えてから lives に追加）:
@@ -505,7 +518,7 @@ export const socials=[{name:'Instagram',mark:'↗',description:'写真と最新�
 
 // サイト更新履歴。日時が不明な過去の更新は時刻を記載しません。
 export const news=[
-  {date:'2026.11.27',time:null,title:'ラジオ「まじかるきゃんぴんぐ」に出演します',description:'阿波座nbステーションのネットラジオにゲスト出演。本編は12月4日・18日（金）21:00に公開予定で、「サルビア」もフルで流れます。',href:'https://www.instagram.com/reel/DgRBe2nstpu/'},
+  {date:'2026.11.28',time:null,title:'ラジオ「まじかるきゃんぴんぐ」に出演します',description:'阿波座nbステーションのネットラジオにゲスト出演。本編は12月4日・18日（金）21:00に公開予定で、「サルビア」もフルで流れます。',href:'https://www.instagram.com/reel/DgRBe2nstpu/'},
   {date:'2026.11.28',time:null,title:'HOMEのデザインを変更しました',description:'トップページの文章をひとつにまとめ、NEWS欄を新設しました。',href:'#/'},
   {date:'2026.11.23',time:null,title:'LIVEに路上ライブの記録を追加しました',description:'路上ライブの記録を、代表動画へのリンク付きで掲載しています。公演と路上ライブはタブで切り替えて表示します。',href:'#/live/street'}
 ];
