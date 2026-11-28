@@ -504,13 +504,8 @@ export const streetLives=[
 export const socials=[{name:'Instagram',mark:'↗',description:'写真と最新のお知らせ',url:'https://www.instagram.com/papilio_osaka/'},{name:'X',mark:'↗',description:'最新情報と日々の投稿',url:'https://x.com/papilio_osaka'},{name:'TikTok',mark:'↗',description:'ショート動画と音楽の記録',url:'https://www.tiktok.com/@papilio_osaka'},{name:'YouTube',mark:'↗',description:'PapiLioの動画・音楽',url:'https://www.youtube.com/@papilionne'}];
 
 // サイト更新履歴。日時が不明な過去の更新は時刻を記載しません。
-export const siteUpdates=[
-  {date:'2026.11.25',time:null,title:'11月24日公演のセットリストを掲載しました',description:'someno kyoto「つきあかりのうた」のセットリスト（5曲）と、手書きセットリストの画像を追加しました。',href:'#/live/2026-11-24'},
-  {date:'2026.11.23',time:null,title:'LIVEに路上ライブの記録を追加しました',description:'路上ライブの日付ごとに、代表動画へのリンクを掲載しました（11月16日・8日・2日）。公演と路上ライブはタブで切り替えて表示します。',href:'#/live'},
-  {date:'2026.11.23',time:null,title:'SONGSを更新しました',description:'公式MVに曲名（サルビア／No Perfect／tell me baby）を表示しました。',href:'#/songs'},
-  {date:'2026.11.23',time:null,title:'LIVEを更新しました',description:'過去の公演を新しい順にし、詳細ではセットリスト・関連投稿・動画を、情報がある公演だけ表示するようにしました。',href:'#/live'},
-  {date:'2026.11.23',time:null,title:'PROFILEを更新しました',description:'ゆっけの担当表記をPianoに統一しました。',href:'#/profile'},
-  {date:'2026.10.30',time:null,title:'HOMEを更新しました',description:'NEWSをサイト更新履歴に変更し、ページ下部へ移動しました。',href:'#/'},
-  {date:'2026.10.30',time:null,title:'12月16日のLIVE詳細を更新しました',description:'公演情報を追記しました。',href:'#/live/2026-12-16'},
-  {date:'2026.10.30',time:null,title:'公式PVをMEDIAに追加しました',description:'サイト内でYouTube動画を再生できるようになりました。',href:'#/media'}
+export const news=[
+  {date:'2026.11.27',time:null,title:'ラジオ「まじかるきゃんぴんぐ」に出演します',description:'阿波座nbステーションのネットラジオにゲスト出演。本編は12月4日・18日（金）21:00に公開予定で、「サルビア」もフルで流れます。',href:'https://www.instagram.com/reel/DgRBe2nstpu/'},
+  {date:'2026.11.28',time:null,title:'HOMEのデザインを変更しました',description:'トップページの文章をひとつにまとめ、NEWS欄を新設しました。',href:'#/'},
+  {date:'2026.11.23',time:null,title:'LIVEに路上ライブの記録を追加しました',description:'路上ライブの記録を、代表動画へのリンク付きで掲載しています。公演と路上ライブはタブで切り替えて表示します。',href:'#/live/street'}
 ];
